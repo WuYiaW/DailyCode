@@ -1,0 +1,7 @@
+1. 克隆远程仓库到本地机器目录下
+git clone 仓库链接
+2.放代码到本地仓库
+3.提交代码
+git add xxxx
+git commit -m "message"
+git push
